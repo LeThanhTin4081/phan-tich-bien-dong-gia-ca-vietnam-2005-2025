@@ -16,7 +16,7 @@ Dự án này là một bài phân tích toàn diện về sự biến động g
 
 ## :pushpin: **3. Phân tích và Thực hiện**
 
-Dự án được triển khai nhằm bóc tách bản chất của từng nhóm mặt hàng. Tiến hành tìm kiếm thu thập dữ liệu lịch sử trong giai đoạn 20 năm (2005 – 2025) từ nhiều nguồn uy tín. Bạn có thể xem dữ liệu tại thư mục [data](ten_file.csv) tại đây. Chi tiết như sau
+Dự án được triển khai nhằm bóc tách bản chất của từng nhóm mặt hàng. Tiến hành tìm kiếm thu thập dữ liệu lịch sử trong giai đoạn 20 năm (2005 – 2025) từ nhiều nguồn uy tín. Bạn có thể xem dữ liệu tại thư mục [data](./data/). Chi tiết như sau
 
 #### 1. Thu thập dữ liệu
 * Dữ liệu Nhóm Lương thực, thực phẩm (Gạo, Thịt heo): Viện Chính sách và Chiến lược Phát triển Nông nghiệp Nông thôn (IPSARD). Trang web thường có báo cáo giá nông sản hàng ngày/tuần. Websitetruy cập: [IPSARD](agro.gov.vn)
