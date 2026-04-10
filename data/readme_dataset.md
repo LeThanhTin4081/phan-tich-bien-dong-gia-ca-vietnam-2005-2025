@@ -1,6 +1,6 @@
 # :file_folder: Dữ liệu dự án (Data Sources & Processing)
 
-Thư mục này chứa file dữ liệu tên `Biến động giá cả của các mặt hàng thiết yếu tại Việt Nam trong 20 năm qua.xlsx` đã qua xử lý phục vụ cho việc xây dựng Dashboard Power BI. Dữ liệu bao quát giai đoạn 20 năm (2005 - 2025) tại thị trường Việt Nam cho 7 mặt hàng thiết yếu.
+Thư mục này chứa file dữ liệu tên `Dulieu_BienDongGia_ThietYeu_VN_2005-2025.xlsx` đã qua xử lý phục vụ cho việc xây dựng Dashboard Power BI. Dữ liệu bao quát giai đoạn 20 năm (2005 - 2025) tại thị trường Việt Nam cho 7 mặt hàng thiết yếu.
 
 ## :page_with_curl: 1. Nguồn dữ liệu (Data Sources)
 
