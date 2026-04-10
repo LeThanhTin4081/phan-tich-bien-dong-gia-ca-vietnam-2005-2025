@@ -48,7 +48,7 @@ Hệ thống báo cáo được xây dựng không chỉ để hiển thị dữ
 
 * **Ứng dụng DAX nâng cao:** Triển khai các Measures phức tạp để bóc tách các chỉ số như: chênh lệch giá lợn sống/bán lẻ, biên độ dao động thực tế và tốc độ tăng trưởng lũy kế qua 20 năm.
 
-👉 **Xem chi tiết phân tích chuyên sâu và các câu chuyện dữ liệu (Data Storytelling) cho từng trang Dashboard tại đây:** [Thư mục Visualisation](./visualisation/README_VISUALISATION.md)
+👉 **Xem chi tiết phân tích chuyên sâu và các câu chuyện dữ liệu (Data Storytelling) cho từng trang Dashboard tại đây:** [Thư mục Visualisation](./visualisation/)
 
 ## :pushpin: **4. Các kết quả phân tích chính**
 
