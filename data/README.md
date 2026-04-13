@@ -1,10 +1,10 @@
 # :file_folder: Dữ liệu dự án (Data Sources & Processing)
 
-Thư mục này chứa file dữ liệu tên `Dulieu_BienDongGia_ThietYeu_VN_2005-2025.xlsx` đã qua xử lý phục vụ cho việc xây dựng Dashboard Power BI. Dữ liệu bao quát giai đoạn 20 năm (2005 - 2025) tại thị trường Việt Nam cho 7 mặt hàng thiết yếu.
+Thư mục này chứa file dữ liệu tên `Dulieu_BienDongGia_ThietYeu_VN_2005-2025.xlsx` được lưu trữ, chuẩn hóa và tiền xử lý qua Excel, đảm bảo tính sẵn sàng trước khi nạp vào Power BI phục vụ cho việc xây dựng Dashboard. Dữ liệu bao quát giai đoạn 20 năm (2005 - 2025) tại thị trường Việt Nam cho 7 mặt hàng thiết yếu.
 
 ## :page_with_curl: 1. Nguồn dữ liệu (Data Sources)
 
-Dữ liệu được tổng hợp và trích xuất từ các nguồn uy tín để đảm bảo tính xác thực:
+Toàn bộ dữ liệu được trích xuất từ các cổng thông tin chính thống và các nền tảng tài chính quốc tế, đảm bảo tính nhất quán và tính toàn vẹn trong suốt giai đoạn 2005-2025.
 
 ### :ear_of_rice: Nhóm Lương thực - Thực phẩm
 * **Gạo & Thịt heo:** Số liệu từ Viện Chính sách và Chiến lược Phát triển Nông nghiệp Nông thôn (IPSARD).
