@@ -54,6 +54,7 @@ Hệ thống báo cáo được xây dựng không chỉ để hiển thị dữ
 
 * **Ứng dụng DAX nâng cao:** Triển khai các Measures phức tạp để bóc tách các chỉ số như: chênh lệch giá lợn sống/bán lẻ, biên độ dao động thực tế và tốc độ tăng trưởng lũy kế qua 20 năm.
 
+:books: **Xem chi tiết phân tích chuyên sâu và Data Storytelling cho từng Dashboard tại thư mục** [Visualisation](./visualisation/)
 
 # :pushpin: 4. **Các kết quả phân tích chính (Key Insights)**
 
@@ -74,8 +75,6 @@ Báo cáo bóc tách các điểm xoay chiều của thị trường gắn liề
 
 ## :rocket: **Sức tăng trưởng "âm thầm"**
   * **Nước sinh hoạt:** Dù không gây sốc như Vàng hay Xăng trong ngắn hạn, nhưng đây lại là mặt hàng có sức tăng bền bỉ nhất (**~11%/năm**), tạo áp lực chi phí sinh hoạt dài hạn cực lớn cho các hộ gia đình qua hai thập kỷ.
-
-:books: **Xem chi tiết phân tích chuyên sâu và Data Storytelling cho từng Dashboard tại thư mục** [Visualisation](./visualisation/)
 
 
 # :link: 5. **Liên kết chính**
