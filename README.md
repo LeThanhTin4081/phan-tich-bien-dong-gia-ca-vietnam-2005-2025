@@ -33,6 +33,7 @@ Tóm tắt thực hiện như sau:
 * **Nhóm Đi lại, sinh hoạt (Xăng, Điện và Nước sinh hoạt):**
   > * **Petrolimex:** Cung cấp dữ liệu lịch sử giá xăng dầu qua các kỳ điều hành. Website: [petrolimex.com.vn](https://www.petrolimex.com.vn)
   > * **Tập đoàn Điện lực Việt Nam (EVN):** Biểu giá bán lẻ điện cho sinh hoạt công khai theo từng thời kỳ. Website: [evn.com.vn](https://www.evn.com.vn)
+  > * **Nước sinh hoạt:** Vì nước sinh hoạt không có một tập đoàn duy nhất quản lý toàn quốc như điện hay xăng dầu, nên dữ liệu được tổng hợp từ các Quyết định về biểu giá nước sạch sinh hoạt của UBND TP.HCM (hoặc địa phương tương ứng) qua các thời kỳ. Tra cứu tại **Thư viện Pháp luật**.  Website: [thuvienphapluat.vn](https://thuvienphapluat.vn)
       
 * **Nhóm Tài sản tích trữ (Vàng, Bạc):**
   > Dữ liệu được trích xuất từ nền tảng tài chính uy tín thế giới. Website: [investing.com](https://vn.investing.com/)
